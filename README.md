@@ -1,6 +1,6 @@
 # Trent Bennett Portfolio
 
-This is my new portolio page (for Trent Bennett).
+This is my new portolio page.
 
 ## Features
 
