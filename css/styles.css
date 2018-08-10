@@ -173,7 +173,9 @@ footer {
     border:3px solid #b9bfc4;
     text-align:center
 
-}.top i {
+}
+
+.top i {
     color:#74808a
 }
 
@@ -277,17 +279,19 @@ footer {
 #lead-content h1 {
     color:#fff;
     font-weight:900;
-    font-size:5em;
+    font-size:4.5em;
     text-transform:uppercase;
-    letter-spacing:0.05em;
+    /* letter-spacing:0.05em; */
+    letter-spacing: 5px;
     line-height:0.9em
 }
 
 #lead-content h2 {
     color:#a0cfee;
     font-weight:500;
-    font-size:2.25em;
-    margin-bottom:15px
+    font-size: 1.75em;
+    margin-bottom:15px;
+    letter-spacing: 1.75px;
 }
 
 #lead-overlay {
@@ -298,7 +302,7 @@ footer {
     right:0;
     bottom:0;
     left:0;
-    background:rgba(33,125,187,0.8);
+    background:rgba(33,125,187,0.9);
     z-index:1
 }
 
