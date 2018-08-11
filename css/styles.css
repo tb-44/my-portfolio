@@ -5,7 +5,7 @@
     Gulp and send to the /css folder which is then loaded on the page.
 */
 body {
-    font-family:'Lato', sans-serif;
+    font-family:'Nunito', sans-serif;
     font-size:16px
 }
 
@@ -589,6 +589,10 @@ footer {
     list-style:none;
     cursor:default;
     font-size:1.2em
+}
+
+#skills img {
+    height: 150px;
 }
 
 #contact {
