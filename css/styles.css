@@ -5,7 +5,7 @@
     Gulp and send to the /css folder which is then loaded on the page.
 */
 body {
-    font-family:'Ubuntu', sans-serif;
+    font-family:'Rubik', sans-serif;
     font-size:16px
 }
 
@@ -83,12 +83,12 @@ header li {
 
 header a {
     display:block;
-    color:#3498db;
+    color:#1E91D6;
     padding:10px
 }
 
 header a:hover {
-    color:#04263d;
+    color:#0072BB;
     text-decoration:none;
     /* background:#eee; */
     border-radius:4px
