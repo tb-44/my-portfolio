@@ -294,6 +294,11 @@ footer {
     letter-spacing: 1.75px;
 }
 
+#lead-content img {
+    height: 200px;
+    padding-bottom: 25px;
+}
+
 #lead-overlay {
     position:absolute;
     height:100%;
