@@ -112,6 +112,10 @@ header.sticky {
     display:block
 }
 
+#menu li img {
+    height: 65px;
+}
+
 #mobile-menu-open {
     display:none;
     cursor:pointer;
