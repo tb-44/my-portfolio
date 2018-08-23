@@ -112,10 +112,6 @@ header.sticky {
     display:block
 }
 
-#menu li img {
-    height: 65px;
-}
-
 #mobile-menu-open {
     display:none;
     cursor:pointer;
@@ -299,7 +295,7 @@ footer {
 }
 
 #lead-content img {
-    height: 200px;
+    height: 165px;
     padding-bottom: 25px;
 }
 
