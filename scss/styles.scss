@@ -1,44 +1,44 @@
 /*
-    File Contents:
+    Contents:
 
         1. Variables
         2. Mixins
-        3. Global Styles
-        4. Lead Styles
-        5. About Styles
-        6. Experience Styles
-        7. Education Styles
-        8. Project Styles
-        9. Skills Styles
-        10. Contact Styles
-        11. Optional Section Styles
+        3. Global 
+        4. Lead 
+        5. About 
+        6. Experience 
+        7. Education 
+        8. Projects
+        9. Skills 
+        10. Contact 
+        11. Optional Section 
         12. Media Queries
 */
 
 /*
     ------------------------
-    ----- 1. Variables -----
+        1. Variables 
     ------------------------
 */
 
-// Define base and accent colors
+// base and accent colors
 $base-color: #3498db;
-$base-color-hover: darken($base-color, 50%);
+$base-color-hover: darken($base-color, 40%);
 
-// Define background colors
+// background colors
 $background: #fff;
 $background-alt: #f2f2f5;
 
-// Define border colors
+// border colors
 $border: #dcd9d9;
 
-// Define text colors
+// text colors
 $heading: #374054;
 $text: #74808a;
 
 /*
     ---------------------
-    ----- 2. Mixins -----
+        2. Mixins 
     ---------------------
 */
 
@@ -68,7 +68,7 @@ $text: #74808a;
 
 /*
     ----------------------------
-    ----- 3. Global Styles -----
+        3. Global Styles 
     ----------------------------
 */
 
@@ -82,7 +82,6 @@ body {
     }
 }
 
-// No JS styles
 .no-js {
     #experience-timeline {
         > div {
@@ -329,7 +328,7 @@ footer {
 
 /*
     --------------------------
-    ----- 4. Lead Styles -----
+        4. Lead Styles 
     --------------------------
 */
 
@@ -429,7 +428,7 @@ footer {
 
 /*
     ---------------------------
-    ----- 5. About Styles -----
+        5. About Styles 
     ---------------------------
 */
 
@@ -449,7 +448,7 @@ footer {
 
 /*
     --------------------------------
-    ----- 6. Experience Styles -----
+        6. Experience Styles 
     --------------------------------
 */
 
@@ -526,7 +525,6 @@ footer {
 .vtimeline-point {
     position: relative;
     display: block;
-    // vertical-align: top;
     margin-bottom: 30px;
 }
 
@@ -560,7 +558,7 @@ footer {
 
 /*
     -------------------------------
-    ----- 7. Education Styles -----
+        7. Education Styles 
     -------------------------------
 */
 
@@ -614,7 +612,7 @@ footer {
 
 /*
     -------------------------------
-    ----- 8. Project Styles -----
+        8. Project Styles 
     -------------------------------
 */
 
@@ -678,7 +676,7 @@ footer {
 
 /*
     -------------------------------
-    ----- 9. Skills Styles -----
+        9. Skills Styles 
     -------------------------------
 */
 
@@ -712,7 +710,7 @@ footer {
 
 /*
     -------------------------------
-    ----- 10. Contact Styles -----
+        10. Contact Styles 
     -------------------------------
 */
 
@@ -777,7 +775,7 @@ footer {
 
 /*
     ---------------------------------------
-    ----- 11. Optional Section Styles -----
+        11. Optional Section Styles
     ---------------------------------------
 */
 
@@ -825,7 +823,7 @@ footer {
 
 /*
     -----------------------------
-    ----- 12. Media Queries -----
+        12. Media Queries 
     -----------------------------
 */
 
