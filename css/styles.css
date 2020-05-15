@@ -82,12 +82,12 @@ header li {
 
 header a {
     display: block;
-    color: #1E91D6;
+    color: rgba(3, 90, 190);
     padding: 10px
 }
 
 header a:hover {
-    color: #0072BB;
+    color: rgb(2, 45, 71);
     text-decoration: none;
     /* background:#eee; */
     border-radius: 4px
@@ -255,7 +255,7 @@ footer {
     height: 650px;
     min-height: 500px;
     max-height: 1080px;
-    background: url(../images/lead-chip.jpg);
+    background: url(../images/fav.gif);
     background-size: cover;
     padding: 15px;
     overflow: hidden
@@ -306,7 +306,7 @@ footer {
     right: 0;
     bottom: 0;
     left: 0;
-    background: rgba(33, 125, 187, 0.78);
+    background: rgba(1, 51, 107, 0.85);
     z-index: 1
 }
 
@@ -447,7 +447,8 @@ footer {
     color: #fff;
     width: 50px;
     height: 50px;
-    background: #3498db;
+    background: rgba(3, 90, 190);
+    ;
     border-radius: 50%;
     float: left;
     z-index: 99;
