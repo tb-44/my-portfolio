@@ -548,9 +548,9 @@ footer {
 }
 
 .project-image img {
-    height: 250px;
-    width: 310px;
-    padding: 25px;
+    height: 240px;
+    width: 330px;
+    padding: 20px;
 }
 
 .project-info {
@@ -558,7 +558,7 @@ footer {
     top: 50%;
     transform: translateY(-50%);
     margin-left: 300px;
-    padding: 15px
+    padding: 10px
 }
 
 .project-info h3 {
