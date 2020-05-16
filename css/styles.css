@@ -84,7 +84,7 @@ header a {
 }
 
 header a:hover {
-    color: #3498db;
+    color: rgba(1, 39, 82);
     text-decoration: none;
     background: rgb(245, 245, 245);
     border-radius: 30px;
