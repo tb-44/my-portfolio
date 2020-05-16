@@ -79,7 +79,7 @@ header li {
 
 header a {
     display: block;
-    color: rgba(1, 39, 82);
+    color: #3498db;
     padding: 10px
 }
 
@@ -167,7 +167,7 @@ footer {
     width: 35px;
     height: 35px;
     border-radius: 50%;
-    border: 3px solid #b9bfc4;
+    border: 3px solid#3498db;
     text-align: center
 }
 
@@ -240,7 +240,7 @@ footer {
     left: 0;
     right: 0;
     margin: 0 auto;
-    background: #3498db
+    background: #3498db;
 }
 
 .background-alt {
@@ -249,7 +249,7 @@ footer {
 
 #lead {
     position: relative;
-    height: 650px;
+    height: 625px;
     min-height: 500px;
     max-height: 1080px;
     background: url(../images/binance.gif);
@@ -326,7 +326,7 @@ footer {
     width: 35px;
     height: 35px;
     border-radius: 50%;
-    border: 3px solid #a0cfee;
+    border: 3px solid #3498db;
     text-align: center
 }
 
