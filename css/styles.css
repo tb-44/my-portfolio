@@ -167,7 +167,7 @@ footer {
     width: 35px;
     height: 35px;
     border-radius: 50%;
-    border: 3px solid#3498db;
+    border: 3px solid #3498db;
     text-align: center
 }
 
@@ -192,7 +192,7 @@ footer {
 
 .social a {
     display: block;
-    color: #74808a;
+    color: rgba(1, 39, 82);
     padding: 10px
 }
 
@@ -618,7 +618,7 @@ footer {
 
 #contact {
     padding: 50px 15px;
-    background: #3498db;
+    background: rgba(1, 39, 82);
     text-align: center
 }
 
@@ -641,7 +641,7 @@ footer {
     border-radius: 4px;
     border: none;
     margin-bottom: 10px;
-    background: #1d6fa5;
+    background: #3498db;
     color: #fff;
     transition: .5s ease all
 }
@@ -671,7 +671,7 @@ footer {
 #contact-form input:focus,
 #contact-form textarea:focus {
     outline: none;
-    background: #16527a
+    background: #74808a;
 }
 
 #contact-form textarea {
