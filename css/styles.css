@@ -74,7 +74,8 @@ header ul {
 }
 
 header li {
-    display: inline-block
+    display: inline-block;
+    letter-spacing: 1.5px;
 }
 
 header a {
@@ -270,7 +271,7 @@ footer {
 
 #lead-content h1,
 #lead-content h2 {
-    margin: 0
+    margin: 0;
 }
 
 #lead-content h1 {
@@ -278,22 +279,26 @@ footer {
     font-weight: 900;
     font-size: 4.5em;
     text-transform: uppercase;
-    letter-spacing: 5px;
-    line-height: 0.9em
+    letter-spacing: 4px;
+    line-height: 0.9em;
 }
 
 #lead-content h2 {
     color: #3498db;
     font-weight: 500;
-    font-size: 1.75em;
+    font-size: 1.5em;
     margin-bottom: 15px;
-    letter-spacing: 1.75px;
+    letter-spacing: 2px;
 }
 
 #lead-content img {
     height: 165px;
     padding-bottom: 25px;
     opacity: 0.65;
+}
+
+#lead-content a {
+    letter-spacing: 1.5px;
 }
 
 #lead-overlay {
