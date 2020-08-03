@@ -81,7 +81,7 @@ header li {
 
 header a {
     display: block;
-    color: #3498db;
+    /*color: #3498db;*/
     padding: 10px
 }
 
