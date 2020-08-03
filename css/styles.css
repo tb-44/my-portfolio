@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Arimo|Exo+2|Rajdhani');
 
 body {
-    font-family: 'Barlow Semi Condensed',
+    font-family: 'Heebo',
         sans-serif;
     font-size: 18px
 }
@@ -76,12 +76,12 @@ header ul {
 
 header li {
     display: inline-block;
-    letter-spacing: 1.1px;
+    /* letter-spacing: 1.1px; */
 }
 
 header a {
     display: block;
-    /*color: #3498db;*/
+    color: #3498db;
     padding: 10px
 }
 
@@ -280,8 +280,10 @@ footer {
     font-weight: 900;
     font-size: 4.5em;
     text-transform: uppercase;
-    letter-spacing: 4px;
+    letter-spacing: 2px;
     line-height: 0.9em;
+    font-family: 'Rajdhani',
+        sans-serif !important;
 }
 
 #lead-content h2 {
