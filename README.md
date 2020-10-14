@@ -1,14 +1,14 @@
 # Trent Bennett Portfolio
 
-This is my new portolio page.
+This is my portolio page.
 
 ## Features
 
 * Gulp ready (compiles Sass and minifies JS)
-* Sass ready 
+* Sass 
 * Fully responsive
-* Comes with Bootstrap grid system
-* Easy color changes can be done through simple variable edits (Sass)
+* Bootstrap grid system
+* color changes done through simple variable edits (Sass)
 
 ## Contents
 
